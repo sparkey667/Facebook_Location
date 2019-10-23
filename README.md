@@ -1,5 +1,8 @@
 # Facebook_Location
-Downloaded Facebook Location information from personal Facebook Account. The information contains town name, latitude and longitude coordiantes, and timestamp. This project is a template for people who want to download their Facebook location data as a JSON file. I used Jupyter Notebook to write the code.
+Downloaded Facebook Location information from personal Facebook Account. The information contains town name, latitude and longitude coordiantes, and timestamp. This project is a template for people who want to download their Facebook location data as a JSON file. I used Jupyter Notebook to write the code. 
+
+# Reason
+Wanted to explore my facebook data and see what facebook tracked.
 
 ## Stuff to Install
 * Anaconda 3.7 https://www.anaconda.com/distribution/
@@ -13,6 +16,8 @@ Downloaded Facebook Location information from personal Facebook Account. The inf
 6. Create File, then wait until FB tells you when the download is complete
 
 (You will only get locaiton data if you have your location settings on in facebook and on mobile phone)
+
+
 
 
 
